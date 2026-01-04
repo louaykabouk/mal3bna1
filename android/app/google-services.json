@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408614059744",
+    "project_id": "sportlife-2586f",
+    "storage_bucket": "sportlife-2586f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408614059744:android:68e3b3aa89df9dcda49a85",
+        "android_client_info": {
+          "package_name": "com.example.mal3bna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWOiKF3jKj8Wwoo_kudMGL1QhEo1mQf7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
